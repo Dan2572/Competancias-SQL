@@ -1,2 +1,2 @@
-# Holding-consultas
-Base de datos de holding más las consultas
+# Competencias-SQL
+Todas las actividades de SQL
